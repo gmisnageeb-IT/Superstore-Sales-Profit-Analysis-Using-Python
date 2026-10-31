@@ -1,9 +1,9 @@
-# DONE BY   : Nageeb Yahya Rezq Al-Surmi
-# SUPERVISOR: Ms Eman Alsamawi
-# COURSE    : Python and Data Analysis
+## DONE BY   : Nageeb Yahya Rezq Al-Surmi
+## SUPERVISOR: Ms Eman Alsamawi
+## COURSE    : Python and Data Analysis
 
 
-# Project Title: Superstore Sales & Profit Analysis Using Python
+## Project Title: Superstore Sales & Profit Analysis Using Python
 
 ## Introduction
 A complete data analysis project in Python that studies the sales and profit of a US superstore
