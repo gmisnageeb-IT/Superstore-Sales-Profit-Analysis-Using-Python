@@ -62,13 +62,12 @@ Python, VS Code, Pandas, NumPy, Matplotlib, Seaborn.
 ├── data/superstore.csv          # dataset
 ├── images/                      # saved charts
 ├── superstore_analysis.py       # Python script with all the code
-├── .vscode/                     # VS Code settings and recommended extensions
 ├── requirements.txt             # libraries needed
 └── README.md
 ```
 
 ## How to run in VS Code
-1. In VS Code choose **File → Open Folder** and open this folder (`Superstore_Analysis_VSCode`).
+1. In VS Code choose **File → Open Folder** and open the project folder.
 2. Install the recommended extensions when VS Code asks (**Python**).
 3. Open the terminal (**Terminal → New Terminal**) and install the libraries:
    ```bash
