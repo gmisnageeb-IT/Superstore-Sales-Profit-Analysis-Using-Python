@@ -9,11 +9,11 @@
 A complete data analysis project in Python that studies the sales and profit of a US superstore
 to find what drives profit and what causes losses.
 
-## Goal
+## Objective
 Understand which products, regions, customer segments and time periods drive sales and profit,
 and find the causes of losses, so the store can make better pricing and sales decisions.
 
-## Questions
+## Questions to answer
 1. Which categories and sub-categories generate the highest sales and profit, and which ones lose money?
 2. How do sales and profit change over time?
 3. Which regions and customer segments are the most profitable?
@@ -27,7 +27,7 @@ and find the causes of losses, so the store can make better pricing and sales de
 ## Tools and libraries
 Python, VS Code, Pandas, NumPy, Matplotlib, Seaborn.
 
-## Project steps
+## Project steps (Data analysis Rules)
 1. **Project idea and data**: topic, name, goal, questions, dataset.
 2. **Data exploration**: read and display the data, shape, columns and types, missing values, duplicates, descriptive statistics.
 3. **Data cleaning**: missing values, duplicates, data types, invalid values, column names, unneeded columns.
@@ -35,7 +35,7 @@ Python, VS Code, Pandas, NumPy, Matplotlib, Seaborn.
 5. **Data visualization**: bar, line, pie, histogram and scatter charts.
 6. **Results and recommendations**.
 
-## Key findings
+## Key findings (Results)
 1. **Technology is the most profitable category** (17.4% margin). Furniture sells almost as much but earns only a 2.5% margin.
 2. **Tables, Bookcases and Supplies lose money**. Copiers, Phones and Accessories bring the most profit.
 3. **Discounts above 20% lose money on average**: together they lost about $135K.
@@ -60,8 +60,8 @@ Python, VS Code, Pandas, NumPy, Matplotlib, Seaborn.
 ## Project files
 ```
 ├── data/superstore.csv          # dataset
-├── images/                      # saved charts
-├── superstore_analysis.py       # Python script with all the code
+├── images/                      # saved charts (7 images)
+├── superstore_analysis.py       # Python code
 ├── requirements.txt             # libraries needed
 └── README.md
 ```
